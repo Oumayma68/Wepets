@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752417031594",
+    "project_id": "wepets-16fdf",
+    "storage_bucket": "wepets-16fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752417031594:android:e822a1f8317fea250617d3",
+        "android_client_info": {
+          "package_name": "com.oumayma.wepets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752417031594-vj978r6erbbfc8t7qqfl0nb68al3o7dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Cvs7SSEobe_l8VjjLZ06nq3R-nZZybg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752417031594-vj978r6erbbfc8t7qqfl0nb68al3o7dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
